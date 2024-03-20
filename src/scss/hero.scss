@@ -1,0 +1,52 @@
+.hero {
+    width: 100%;
+    background-color: black;
+}
+.hero_inner {
+    padding: 50px 0;
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+    font-size: 30px;
+    line-height: 36.57px;
+    color: white;
+    margin-bottom: 40px;
+}
+.hero_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero_card {
+    padding: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+.hero_card_img {
+    margin-bottom: 10px;
+}
+.card_title {
+    margin-bottom: 5px;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+    color: black;
+}
+.card_price {
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 29.26px;
+    text-align: left;
+    color: black;
+}
+.card_btn {
+    width: 100%;
+    padding: 6px 0;
+    text-align: center;
+    background-color: #FE7C45;
+    font-size: 22px;
+    line-height: 26.82px;
+    color: white;
+}
